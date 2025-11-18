@@ -51,6 +51,9 @@ A entrega III tem como objetivo implementar **interatividade e funcionalidades a
 - **Formulário de contato** com persistência no LocalStorage.  
 - **Menu hambúrguer responsivo** em dispositivos móveis.
 
+Acesse a versão online via GitHub Pages:  
+👉 [https://ericaserpa.github.io/Front-End-Para-Web-ONG-ReTech-III]([https://ericaserpa.github.io/Front-End-Para-Web-ONG-ReTech-III](https://ericaserpa.github.io/Front-End-Para-Web-ONG-ReTech-III)
+
 ---
 
 ## 📌 Como executar
@@ -65,6 +68,6 @@ A entrega III tem como objetivo implementar **interatividade e funcionalidades a
    - [LinkedIn](www.linkedin.com/in/ericaserpa)
 
    
-##📜 Licença
+## 📜 Licença
 
 Este projeto é de uso acadêmico e não possui fins comerciais.
