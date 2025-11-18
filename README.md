@@ -22,16 +22,10 @@ A entrega III tem como objetivo implementar **interatividade e funcionalidades a
   - Ícone animado que se transforma em “X” ao abrir.  
   - Navegação adaptada para dispositivos móveis.
 
-- **Grid de 12 Colunas**  
-  Layout flexível para organizar conteúdo em diferentes proporções.
-
 - **Componentes de Feedback**  
   - Toasts (sucesso, erro, informação).  
   - Estrutura preparada para alerts e modals.  
   - Sistema de badges/tags para categorização.
-
-- **Tipografia Responsiva**  
-  Hierarquia completa (`h1` a `h5`) com uso de `clamp()` para adaptação automática em diferentes telas.
 
 - **Armazenamento Local (LocalStorage)**  
   Persistência de dados de cadastro e mensagens de contato.
@@ -47,9 +41,6 @@ A entrega III tem como objetivo implementar **interatividade e funcionalidades a
   - Eventos  
   - Modularização  
   - LocalStorage  
-
----
-
 
 ---
 
