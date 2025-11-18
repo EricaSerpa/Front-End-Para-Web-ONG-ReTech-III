@@ -1,4 +1,4 @@
-# Front-End Para Web - ONG ReTech (Entrega III)
+# 🌱 Front-End Para Web ONG ReTech III
 
 Este projeto foi desenvolvido como parte da disciplina **Front-End para Web**, com foco na criação de uma aplicação web dinâmica e interativa para a ONG fictícia **ReTech**.  
 A entrega III tem como objetivo implementar **interatividade e funcionalidades avançadas em JavaScript**, transformando a interface estática em uma SPA (Single Page Application).
